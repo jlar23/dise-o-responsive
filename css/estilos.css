@@ -1,0 +1,18 @@
+.zom:hover{
+    transform: scale(1.1);
+}
+.zom{
+    transition: .3s;
+    cursor: pointer;
+}
+.title{
+    font-family: sans-serif;
+    font-size: 24px;
+}
+.font_1{
+    font-size: 14.5px;
+}
+.p_1{
+    font-size:smaller;
+    font-family: Arial, Helvetica, sans-serif;
+}
